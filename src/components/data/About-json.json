@@ -1,0 +1,10 @@
+{
+  "headline": "Get To Know",
+  "title": "About Me",
+  "imagePath": "../../assets/me-about.jpg",
+  "description": "As a Senior Software Engineer at ECSFin, I develop innovative banking solutions using Spring Boot, Next.js, React.js, Apache Camel, Kafka, MongoDB, and PostgreSQL. With 4+ years of experience, I specialize in building high-quality software and automating processes.Previously, as a Java Developer at Tata Consultancy Services, I created and maintained REST APIs to streamline test data management, improving testing efficiency. Skilled in DevOps, I’ve configured CI/CD pipelines using Atlassian Bamboo and TFS for seamless software delivery.hold a Bachelor of Computer Application degree from the University of Calicut and have certifications in Groovy, Java, and React.js. Passionate about solving real-world problems, I thrive on challenges and collaboration to deliver impactful solutions.",
+  "ctaText": "Let's Talk",
+  "ctaLink": "#contact",
+  "ExperienceTitile": "Experience",
+  "ExperienceDescription": ""
+}

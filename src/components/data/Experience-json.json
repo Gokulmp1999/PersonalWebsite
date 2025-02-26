@@ -1,0 +1,48 @@
+{
+  "headline": "My Professional Journey",
+  "title": "Work Experience",
+  "positions": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "ECSFin,Trivandrum",
+      "duration": "Jan 2024 - Present",
+      "description": "As a Senior Software Engineer at ECSFin, I am part of the Product and Innovation team, working on developing new products in the banking domain using Spring Boot, Next.js, React.js, Apache Camel, Kafka, MongoDB, and PostgreSQL. With 4+ years of experience in the software industry, I have honed my skills in delivering high-quality software solutions.",
+      "technologies": [
+        { "name": "Spring Boot", "proficiency": "Advanced" },
+        { "name": "Java", "proficiency": "Advanced" },
+        { "name": "Apache Camel", "proficiency": "Advanced" },
+        { "name": "Kafka", "proficiency": "Advanced" },
+        { "name": "MongoDb", "proficiency": "Advanced" },
+        { "name": "Postgress", "proficiency": "Advanced" },
+        { "name": "React.js", "proficiency": "Advanced" },
+        { "name": "Next.js", "proficiency": "Intermediate" },
+        { "name": "Camunda Zeebe", "proficiency": "Intermediate" }
+      ],
+      "achievements": [
+        "Reduced deployment time by 40% through pipeline optimization",
+        "Implemented automated testing framework that improved code quality by 30%",
+        "Led migration from legacy systems to modern CI/CD infrastructure"
+      ]
+    },
+    {
+      "title": "Assistant System Engineer",
+      "company": "TCS,kochi",
+      "duration": "Jun 2021 - Dec 2023",
+      "description": "I worked on various projects utilizing core Java, Spring Boot, and SQL technologies. I developed and maintained a Rest API project to automate test data management for multiple clients, enhancing the quality and efficiency of software testing.Proficient in DevOps practices, I have experience configuring CI/CD pipelines using Atlassian Bamboo and TFS to ensure fast and reliable software delivery. I am well-versed in Agile methodologies, collaborating with cross-functional teams and stakeholders to deliver value and meet customer needs.",
+      "technologies": [
+        { "name": "Spring Boot", "proficiency": "Advanced" },
+        { "name": "Java", "proficiency": "Advanced" },
+        { "name": "Atlassian Bamboo", "proficiency": "Advanced" },
+        { "name": "Tfs", "proficiency": "Advanced" },
+        { "name": "Groovy", "proficiency": "Advanced" },
+        { "name": "Jira", "proficiency": "Advanced" },
+        { "name": "Confluence", "proficiency": "Advanced" }
+      ],
+      "achievements": [
+        "Developed company's main product website that increased user engagement by 25%",
+        "Created reusable component library used across multiple projects",
+        "Optimized application performance resulting in 50% faster load times"
+      ]
+    }
+  ]
+}
