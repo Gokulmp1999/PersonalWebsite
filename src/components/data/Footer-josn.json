@@ -1,0 +1,15 @@
+{
+    "name": "GOKULDAS",
+    "links": [
+      { "title": "Home", "url": "#" },
+      { "title": "About", "url": "#about" },
+      { "title": "Experience", "url": "#experience" },
+      { "title": "Contact", "url": "#contact" }
+    ],
+    "socials": [
+      { "icon": "FaFacebook", "url": "https://www.facebook.com/" },
+      { "icon": "FiInstagram", "url": "https://www.instagram.com/" },
+      { "icon": "IoLogoTwitter", "url": "https://twitter.com/" }
+    ],
+    "copyright": "&copy; GOKULDAS. All rights reserved"
+  }

@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/Image-removebg-preview.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -23,16 +23,6 @@ function About() {
               <h5>{aboutData.ExperienceTitile}</h5>
               <small>{aboutData.ExperienceDescription}</small>
             </article>
-            {/* <article className="about___card">
-              <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>2 Worldwide</small>
-            </article>
-            <article className="about___card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>2</small>
-            </article> */}
           </div>
           <p>
           {aboutData.description}
